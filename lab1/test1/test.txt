@@ -1,0 +1,1 @@
+# !/bin/bash gcc -O3 -Wall -Werror lab1.c -o lab1-seq -lm

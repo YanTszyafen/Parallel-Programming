@@ -1,0 +1,143 @@
+seq :
+N=880 | sum=146.978931 Milliseconds passsed: 16
+
+par:
+
+N=880 | sum=146.978931 Milliseconds passsed: 13
+sheldule(static): N=880 | sum=146.978931 Milliseconds passsed: 26
+schedule(static, N / 600): N=880 | sum=146.978931 Milliseconds passsed: 107
+schedule(dynamic, N / 600): N=880 | sum=146.978931 Milliseconds passsed: 56
+schedule(guided, N / 600): N=880 | sum=146.978931 Milliseconds passsed: 43
+
+===============================================================
+
+seq :
+N=2792 | sum=441.060002 Milliseconds passsed: 142
+
+par:
+
+N=2792 | sum=441.060002 Milliseconds passsed: 117
+sheldule(static): N=2792 | sum=441.060002 Milliseconds passsed: 115
+schedule(static, N / 600): N=2792 | sum=441.060002 Milliseconds passsed: 156
+schedule(dynamic, N / 600): N=2792 | sum=441.060002 Milliseconds passsed: 142
+schedule(guided, N / 600): N=2792 | sum=441.060002 Milliseconds passsed: 124
+
+===============================================================
+
+seq :
+N=4704 | sum=766.591418 Milliseconds passsed: 398
+
+par:
+
+N=4704 | sum=766.591418 Milliseconds passsed: 355
+sheldule(static): N=4704 | sum=766.591418 Milliseconds passsed: 367
+schedule(static, N / 600): N=4704 | sum=766.591418 Milliseconds passsed: 560
+schedule(dynamic, N / 600): N=4704 | sum=766.591418 Milliseconds passsed: 370
+schedule(guided, N / 600): N=4704 | sum=766.591418 Milliseconds passsed: 362
+
+===============================================================
+
+seq :
+N=6616 | sum=1077.176143 Milliseconds passsed: 806
+
+par:
+
+N=6616 | sum=1077.176143 Milliseconds passsed: 1163
+sheldule(static): N=6616 | sum=1077.176143 Milliseconds passsed: 683
+schedule(static, N / 600): N=6616 | sum=1077.176143 Milliseconds passsed: 663
+schedule(dynamic, N / 600): N=6616 | sum=1077.176143 Milliseconds passsed: 742
+schedule(guided, N / 600): N=6616 | sum=1077.176143 Milliseconds passsed: 721
+
+===============================================================
+
+seq :
+N=8528 | sum=1387.787253 Milliseconds passsed: 1319
+
+par:
+
+N=8528 | sum=1387.787253 Milliseconds passsed: 1050
+sheldule(static): N=8528 | sum=1387.787253 Milliseconds passsed: 1069
+schedule(static, N / 600): N=8528 | sum=1387.787253 Milliseconds passsed: 1107
+schedule(dynamic, N / 600): N=8528 | sum=1387.787253 Milliseconds passsed: 1029
+schedule(guided, N / 600): N=8528 | sum=1387.787253 Milliseconds passsed: 1051
+
+===============================================================
+
+seq :
+N=10440 | sum=1671.594285 Milliseconds passsed: 1851
+
+par:
+
+N=10440 | sum=1671.594285 Milliseconds passsed: 1512
+sheldule(static): N=10440 | sum=1671.594285 Milliseconds passsed: 1518
+schedule(static, N / 600): N=10440 | sum=1671.594285 Milliseconds passsed: 1514
+schedule(dynamic, N / 600): N=10440 | sum=1671.594285 Milliseconds passsed: 1563
+schedule(guided, N / 600): N=10440 | sum=1671.594285 Milliseconds passsed: 1500
+
+===============================================================
+
+seq :
+N=12352 | sum=1920.079921 Milliseconds passsed: 2626
+
+par:
+
+N=12352 | sum=1920.079921 Milliseconds passsed: 2041
+sheldule(static): N=12352 | sum=1920.079921 Milliseconds passsed: 2013
+schedule(static, N / 600): N=12352 | sum=1920.079921 Milliseconds passsed: 2018
+schedule(dynamic, N / 600): N=12352 | sum=1920.079921 Milliseconds passsed: 2047
+schedule(guided, N / 600): N=12352 | sum=1920.079921 Milliseconds passsed: 2078
+
+===============================================================
+
+seq :
+N=14264 | sum=2244.697287 Milliseconds passsed: 3466
+
+par:
+
+N=14264 | sum=2244.697287 Milliseconds passsed: 2648
+sheldule(static): N=14264 | sum=2244.697287 Milliseconds passsed: 2652
+schedule(static, N / 600): N=14264 | sum=2244.697287 Milliseconds passsed: 2665
+schedule(dynamic, N / 600): N=14264 | sum=2244.697287 Milliseconds passsed: 2666
+schedule(guided, N / 600): N=14264 | sum=2244.697287 Milliseconds passsed: 2664
+
+===============================================================
+
+seq :
+N=16176 | sum=2624.741667 Milliseconds passsed: 4572
+
+par:
+
+N=16176 | sum=2624.741667 Milliseconds passsed: 3776
+sheldule(static): N=16176 | sum=2624.741667 Milliseconds passsed: 3357
+schedule(static, N / 600): N=16176 | sum=2624.741667 Milliseconds passsed: 3600
+schedule(dynamic, N / 600): N=16176 | sum=2624.741667 Milliseconds passsed: 3479
+schedule(guided, N / 600): N=16176 | sum=2624.741667 Milliseconds passsed: 3505
+
+===============================================================
+
+seq :
+N=18088 | sum=2903.982019 Milliseconds passsed: 5910
+
+par:
+
+N=18088 | sum=2903.982019 Milliseconds passsed: 4427
+sheldule(static): N=18088 | sum=2903.982019 Milliseconds passsed: 4475
+schedule(static, N / 600): N=18088 | sum=2903.982019 Milliseconds passsed: 4318
+schedule(dynamic, N / 600): N=18088 | sum=2903.982019 Milliseconds passsed: 4318
+schedule(guided, N / 600): N=18088 | sum=2903.982019 Milliseconds passsed: 4360
+
+===============================================================
+
+seq :
+N=20000 | sum=3234.264159 Milliseconds passsed: 6819
+
+par:
+
+N=20000 | sum=3234.264159 Milliseconds passsed: 5081
+sheldule(static): N=20000 | sum=3234.264159 Milliseconds passsed: 5091
+schedule(static, N / 600): N=20000 | sum=3234.264159 Milliseconds passsed: 5109
+schedule(dynamic, N / 600): N=20000 | sum=3234.264159 Milliseconds passsed: 5137
+schedule(guided, N / 600): N=20000 | sum=3234.264159 Milliseconds passsed: 5262
+
+===============================================================
+

@@ -1,0 +1,22 @@
+#!/bin/bash
+
+gcc -O3 -Wall -Werror -o lab1-seq lab1.c -lm
+gcc -O3 -Wall -Werror -floop-parallelize-all -ftree-parallelize-loops=4 lab1.c -o lab1-par-4 -lm
+
+index=$1
+
+let "step=($2 - $1) / 10"
+
+while [[ $index -lt $2 ]]
+do
+
+echo Execution lab-seq $index
+./lab1-seq $index
+
+./lab1-par-4 $index
+
+let "index=index+(step)"
+
+done
+
+echo $index

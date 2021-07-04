@@ -1,0 +1,11 @@
+N=880 | sum=146.978931 Milliseconds passsed: 16
+N=2792 | sum=441.060002 Milliseconds passsed: 137
+N=4704 | sum=766.591418 Milliseconds passsed: 383
+N=6616 | sum=1077.176143 Milliseconds passsed: 746
+N=8528 | sum=1387.787253 Milliseconds passsed: 1233
+N=10440 | sum=1671.594285 Milliseconds passsed: 1827
+N=12352 | sum=1920.079921 Milliseconds passsed: 2577
+N=14264 | sum=2244.697287 Milliseconds passsed: 3391
+N=16176 | sum=2624.741667 Milliseconds passsed: 4339
+N=18088 | sum=2903.982019 Milliseconds passsed: 5392
+N=20000 | sum=3234.264159 Milliseconds passsed: 6771

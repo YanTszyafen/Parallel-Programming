@@ -1,0 +1,20 @@
+
+ N=880. Milliseconds passsed: 10
+
+ N=2792. Milliseconds passsed: 56
+
+ N=4704. Milliseconds passsed: 153
+
+ N=6616. Milliseconds passsed: 295
+
+ N=8528. Milliseconds passsed: 491
+
+ N=10440. Milliseconds passsed: 690
+
+ N=12352. Milliseconds passsed: 960
+
+ N=14264. Milliseconds passsed: 1283
+
+ N=16176. Milliseconds passsed: 1639
+
+ N=18088. Milliseconds passsed: 2050

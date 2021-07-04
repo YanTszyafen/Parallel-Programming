@@ -1,0 +1,1 @@
+schedule(guided, N / 600): N=20000 | sum=3234.264159 Milliseconds passsed: 5262

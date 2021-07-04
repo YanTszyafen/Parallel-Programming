@@ -1,0 +1,11 @@
+sheldule(static): N=880 | sum=146.978931 Milliseconds passsed: 19
+sheldule(static): N=2792 | sum=441.060002 Milliseconds passsed: 159
+sheldule(static): N=4704 | sum=766.591418 Milliseconds passsed: 444
+sheldule(static): N=6616 | sum=1077.176143 Milliseconds passsed: 959
+sheldule(static): N=8528 | sum=1387.787253 Milliseconds passsed: 1404
+sheldule(static): N=10440 | sum=1671.594285 Milliseconds passsed: 1918
+sheldule(static): N=12352 | sum=1920.079921 Milliseconds passsed: 2630
+sheldule(static): N=14264 | sum=2244.697287 Milliseconds passsed: 3476
+sheldule(static): N=16176 | sum=2624.741667 Milliseconds passsed: 4438
+sheldule(static): N=18088 | sum=2903.982019 Milliseconds passsed: 5548
+sheldule(static): N=20000 | sum=3234.264159 Milliseconds passsed: 6683

@@ -1,0 +1,49 @@
+# !/bin/bash
+
+rm lab3_result.txt
+
+NFrom=880
+NTo=20000
+
+let "step=($NTo - $NFrom) / 10"
+let "NTo=$NTo + $step"
+
+gcc lab1.c -o lab3_seq -lm
+gcc -O3 -Wall -Werror -fopenmp lab1.c -o lab3_par -lm
+gcc -O3 -Wall -Werror -fopenmp lab1_schedule_0.c -o lab3_par_schedule_0 -lm
+gcc -O3 -Wall -Werror -fopenmp lab1_schedule_1.c -o lab3_par_schedule_1 -lm
+gcc -O3 -Wall -Werror -fopenmp lab1_schedule_2.c -o lab3_par_schedule_2 -lm
+gcc -O3 -Wall -Werror -fopenmp lab1_schedule_3.c -o lab3_par_schedule_3 -lm
+
+for ((index=NFrom; index<NTo; ))
+do
+
+echo $index
+
+echo "seq :" >> lab3_result.txt
+
+./lab3_seq $index
+cat result.txt >> lab3_result.txt
+
+echo -e "\npar:\n" >> lab3_result.txt
+
+./lab3_par $index
+cat result.txt >> lab3_result.txt
+
+./lab3_par_schedule_0 $index
+cat result.txt >> lab3_result.txt
+
+./lab3_par_schedule_1 $index
+cat result.txt >> lab3_result.txt
+
+./lab3_par_schedule_2 $index
+cat result.txt >> lab3_result.txt
+
+./lab3_par_schedule_3 $index
+cat result.txt >> lab3_result.txt
+
+echo -e "\n===============================================================\n" >> lab3_result.txt
+
+let "index=index+(step)"
+
+done
