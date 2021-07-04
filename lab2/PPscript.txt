@@ -1,0 +1,25 @@
+# !/bin/bash rm lab2_result.txt
+NFrom=880
+NTo=20000
+
+let "step=($NTo - $NFrom) / 10"
+let "NTo=$NTo + $step"
+
+gcc -LFW_1.3.1_Lin64/lib lab2.c -o lab2 -lm -lfwBase -lfwSignal
+
+MaxThreads=5
+
+for ((threadsNum=1; threadsNum<MaxThreads; threadsNum++))
+do
+echo $threadsNum
+
+for ((index=NFrom; index<NTo; index++))
+do
+./lab2 $index $threadsNum
+cat result.txt >> lab2_result.txt
+let "index=index+(step)"
+done
+
+done
+
+

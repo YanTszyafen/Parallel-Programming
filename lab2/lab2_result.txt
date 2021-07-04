@@ -1,0 +1,264 @@
+
+ N=880 NThread=1 | sum=136.916484 Milliseconds passsed: 46
+
+ N=2793 NThread=1 | sum=440.161794 Milliseconds passsed: 155
+
+ N=4706 NThread=1 | sum=744.358105 Milliseconds passsed: 404
+
+ N=6619 NThread=1 | sum=1023.088808 Milliseconds passsed: 795
+
+ N=8532 NThread=1 | sum=1339.970167 Milliseconds passsed: 1301
+
+ N=10445 NThread=1 | sum=1687.046525 Milliseconds passsed: 1971
+
+ N=12358 NThread=1 | sum=1941.736863 Milliseconds passsed: 2670
+
+ N=14271 NThread=1 | sum=2239.852504 Milliseconds passsed: 3602
+
+ N=16184 NThread=1 | sum=2511.962975 Milliseconds passsed: 4622
+
+ N=18097 NThread=1 | sum=2732.326705 Milliseconds passsed: 5761
+
+ N=20010 NThread=1 | sum=3076.025735 Milliseconds passsed: 7113
+
+ N=880 NThread=2 | sum=136.916484 Milliseconds passsed: 45
+
+ N=2793 NThread=2 | sum=440.161794 Milliseconds passsed: 159
+
+ N=4706 NThread=2 | sum=744.358105 Milliseconds passsed: 406
+
+ N=6619 NThread=2 | sum=1023.088808 Milliseconds passsed: 805
+
+ N=8532 NThread=2 | sum=1339.970167 Milliseconds passsed: 1319
+
+ N=10445 NThread=2 | sum=1687.046525 Milliseconds passsed: 1990
+
+ N=12358 NThread=2 | sum=1941.736863 Milliseconds passsed: 2702
+
+ N=14271 NThread=2 | sum=2239.852504 Milliseconds passsed: 3600
+
+ N=16184 NThread=2 | sum=2511.962975 Milliseconds passsed: 4657
+
+ N=18097 NThread=2 | sum=2732.326705 Milliseconds passsed: 5729
+
+ N=20010 NThread=2 | sum=3076.025735 Milliseconds passsed: 7069
+
+ N=880 NThread=3 | sum=136.916484 Milliseconds passsed: 48
+
+ N=2793 NThread=3 | sum=440.161794 Milliseconds passsed: 165
+
+ N=4706 NThread=3 | sum=744.358105 Milliseconds passsed: 410
+
+ N=6619 NThread=3 | sum=1023.088808 Milliseconds passsed: 896
+
+ N=8532 NThread=3 | sum=1339.970167 Milliseconds passsed: 1306
+
+ N=10445 NThread=3 | sum=1687.046525 Milliseconds passsed: 1979
+
+ N=12358 NThread=3 | sum=1941.736863 Milliseconds passsed: 2698
+
+ N=14271 NThread=3 | sum=2239.852504 Milliseconds passsed: 3612
+
+ N=16184 NThread=3 | sum=2511.962975 Milliseconds passsed: 4634
+
+ N=18097 NThread=3 | sum=2732.326705 Milliseconds passsed: 6657
+
+ N=20010 NThread=3 | sum=3076.025735 Milliseconds passsed: 7062
+
+ N=880 NThread=4 | sum=136.916484 Milliseconds passsed: 46
+
+ N=2793 NThread=4 | sum=440.161794 Milliseconds passsed: 163
+
+ N=4706 NThread=4 | sum=744.358105 Milliseconds passsed: 398
+
+ N=6619 NThread=4 | sum=1023.088808 Milliseconds passsed: 803
+
+ N=8532 NThread=4 | sum=1339.970167 Milliseconds passsed: 1307
+
+ N=10445 NThread=4 | sum=1687.046525 Milliseconds passsed: 1987
+
+ N=12358 NThread=4 | sum=1941.736863 Milliseconds passsed: 2694
+
+ N=14271 NThread=4 | sum=2239.852504 Milliseconds passsed: 3623
+
+ N=16184 NThread=4 | sum=2511.962975 Milliseconds passsed: 4633
+
+ N=18097 NThread=4 | sum=2732.326705 Milliseconds passsed: 5792
+
+ N=20010 NThread=4 | sum=3076.025735 Milliseconds passsed: 7072
+
+ N=880 NThread=5 | sum=136.916484 Milliseconds passsed: 50
+
+ N=2793 NThread=5 | sum=440.161794 Milliseconds passsed: 157
+
+ N=4706 NThread=5 | sum=744.358105 Milliseconds passsed: 404
+
+ N=6619 NThread=5 | sum=1023.088808 Milliseconds passsed: 799
+
+ N=8532 NThread=5 | sum=1339.970167 Milliseconds passsed: 1303
+
+ N=10445 NThread=5 | sum=1687.046525 Milliseconds passsed: 1982
+
+ N=12358 NThread=5 | sum=1941.736863 Milliseconds passsed: 2729
+
+ N=14271 NThread=5 | sum=2239.852504 Milliseconds passsed: 3629
+
+ N=16184 NThread=5 | sum=2511.962975 Milliseconds passsed: 4624
+
+ N=18097 NThread=5 | sum=2732.326705 Milliseconds passsed: 5791
+
+ N=20010 NThread=5 | sum=3076.025735 Milliseconds passsed: 7118
+
+ N=880 NThread=6 | sum=136.916484 Milliseconds passsed: 45
+
+ N=2793 NThread=6 | sum=440.161794 Milliseconds passsed: 161
+
+ N=4706 NThread=6 | sum=744.358105 Milliseconds passsed: 404
+
+ N=6619 NThread=6 | sum=1023.088808 Milliseconds passsed: 795
+
+ N=8532 NThread=6 | sum=1339.970167 Milliseconds passsed: 1305
+
+ N=10445 NThread=6 | sum=1687.046525 Milliseconds passsed: 1973
+
+ N=12358 NThread=6 | sum=1941.736863 Milliseconds passsed: 2726
+
+ N=14271 NThread=6 | sum=2239.852504 Milliseconds passsed: 3626
+
+ N=16184 NThread=6 | sum=2511.962975 Milliseconds passsed: 4623
+
+ N=18097 NThread=6 | sum=2732.326705 Milliseconds passsed: 5756
+
+ N=20010 NThread=6 | sum=3076.025735 Milliseconds passsed: 7051
+
+ N=880 NThread=7 | sum=136.916484 Milliseconds passsed: 44
+
+ N=2793 NThread=7 | sum=440.161794 Milliseconds passsed: 160
+
+ N=4706 NThread=7 | sum=744.358105 Milliseconds passsed: 403
+
+ N=6619 NThread=7 | sum=1023.088808 Milliseconds passsed: 804
+
+ N=8532 NThread=7 | sum=1339.970167 Milliseconds passsed: 1321
+
+ N=10445 NThread=7 | sum=1687.046525 Milliseconds passsed: 1971
+
+ N=12358 NThread=7 | sum=1941.736863 Milliseconds passsed: 2699
+
+ N=14271 NThread=7 | sum=2239.852504 Milliseconds passsed: 3629
+
+ N=16184 NThread=7 | sum=2511.962975 Milliseconds passsed: 4659
+
+ N=18097 NThread=7 | sum=2732.326705 Milliseconds passsed: 5783
+
+ N=20010 NThread=7 | sum=3076.025735 Milliseconds passsed: 7083
+
+ N=880 NThread=8 | sum=136.916484 Milliseconds passsed: 45
+
+ N=2793 NThread=8 | sum=440.161794 Milliseconds passsed: 161
+
+ N=4706 NThread=8 | sum=744.358105 Milliseconds passsed: 429
+
+ N=6619 NThread=8 | sum=1023.088808 Milliseconds passsed: 806
+
+ N=8532 NThread=8 | sum=1339.970167 Milliseconds passsed: 1304
+
+ N=10445 NThread=8 | sum=1687.046525 Milliseconds passsed: 1997
+
+ N=12358 NThread=8 | sum=1941.736863 Milliseconds passsed: 2705
+
+ N=14271 NThread=8 | sum=2239.852504 Milliseconds passsed: 3614
+
+ N=16184 NThread=8 | sum=2511.962975 Milliseconds passsed: 4642
+
+ N=18097 NThread=8 | sum=2732.326705 Milliseconds passsed: 5736
+
+ N=20010 NThread=8 | sum=3076.025735 Milliseconds passsed: 7052
+
+ N=880 NThread=9 | sum=136.916484 Milliseconds passsed: 48
+
+ N=2793 NThread=9 | sum=440.161794 Milliseconds passsed: 161
+
+ N=4706 NThread=9 | sum=744.358105 Milliseconds passsed: 402
+
+ N=6619 NThread=9 | sum=1023.088808 Milliseconds passsed: 798
+
+ N=8532 NThread=9 | sum=1339.970167 Milliseconds passsed: 1299
+
+ N=10445 NThread=9 | sum=1687.046525 Milliseconds passsed: 1995
+
+ N=12358 NThread=9 | sum=1941.736863 Milliseconds passsed: 2697
+
+ N=14271 NThread=9 | sum=2239.852504 Milliseconds passsed: 3638
+
+ N=16184 NThread=9 | sum=2511.962975 Milliseconds passsed: 4669
+
+ N=18097 NThread=9 | sum=2732.326705 Milliseconds passsed: 5790
+
+ N=20010 NThread=9 | sum=3076.025735 Milliseconds passsed: 7046
+
+ N=880 NThread=10 | sum=136.916484 Milliseconds passsed: 46
+
+ N=2793 NThread=10 | sum=440.161794 Milliseconds passsed: 155
+
+ N=4706 NThread=10 | sum=744.358105 Milliseconds passsed: 402
+
+ N=6619 NThread=10 | sum=1023.088808 Milliseconds passsed: 797
+
+ N=8532 NThread=10 | sum=1339.970167 Milliseconds passsed: 1330
+
+ N=10445 NThread=10 | sum=1687.046525 Milliseconds passsed: 1998
+
+ N=12358 NThread=10 | sum=1941.736863 Milliseconds passsed: 2710
+
+ N=14271 NThread=10 | sum=2239.852504 Milliseconds passsed: 3612
+
+ N=16184 NThread=10 | sum=2511.962975 Milliseconds passsed: 4615
+
+ N=18097 NThread=10 | sum=2732.326705 Milliseconds passsed: 5765
+
+ N=20010 NThread=10 | sum=3076.025735 Milliseconds passsed: 7018
+
+ N=880 NThread=11 | sum=136.916484 Milliseconds passsed: 44
+
+ N=2793 NThread=11 | sum=440.161794 Milliseconds passsed: 160
+
+ N=4706 NThread=11 | sum=744.358105 Milliseconds passsed: 408
+
+ N=6619 NThread=11 | sum=1023.088808 Milliseconds passsed: 799
+
+ N=8532 NThread=11 | sum=1339.970167 Milliseconds passsed: 1305
+
+ N=10445 NThread=11 | sum=1687.046525 Milliseconds passsed: 1985
+
+ N=12358 NThread=11 | sum=1941.736863 Milliseconds passsed: 2689
+
+ N=14271 NThread=11 | sum=2239.852504 Milliseconds passsed: 3606
+
+ N=16184 NThread=11 | sum=2511.962975 Milliseconds passsed: 4624
+
+ N=18097 NThread=11 | sum=2732.326705 Milliseconds passsed: 5770
+
+ N=20010 NThread=11 | sum=3076.025735 Milliseconds passsed: 7023
+
+ N=880 NThread=12 | sum=136.916484 Milliseconds passsed: 44
+
+ N=2793 NThread=12 | sum=440.161794 Milliseconds passsed: 156
+
+ N=4706 NThread=12 | sum=744.358105 Milliseconds passsed: 404
+
+ N=6619 NThread=12 | sum=1023.088808 Milliseconds passsed: 792
+
+ N=8532 NThread=12 | sum=1339.970167 Milliseconds passsed: 1294
+
+ N=10445 NThread=12 | sum=1687.046525 Milliseconds passsed: 1968
+
+ N=12358 NThread=12 | sum=1941.736863 Milliseconds passsed: 2697
+
+ N=14271 NThread=12 | sum=2239.852504 Milliseconds passsed: 3607
+
+ N=16184 NThread=12 | sum=2511.962975 Milliseconds passsed: 4622
+
+ N=18097 NThread=12 | sum=2732.326705 Milliseconds passsed: 5762
+
+ N=20010 NThread=12 | sum=3076.025735 Milliseconds passsed: 7021

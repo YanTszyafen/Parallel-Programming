@@ -1,0 +1,2 @@
+
+ N=20010 NThread=4 | sum=3076.025735 Milliseconds passsed: 12793
